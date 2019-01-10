@@ -10,12 +10,12 @@ The goal of this project was to create a map of Paris that would allow me to kno
 
 Here is the result:
 
-![](./data/La Muette (METRO), Paris.png)
+![](./data/La%20Muette%20(METRO),%20Paris.png)
 
 
 To compare with the one of my girlfriend:
 
-![](./data/Marcadet - Poissonniers (METRO), Paris.png)
+![](./data/Marcadet%20-%20Poissonniers%20(METRO),%20Paris.png)
 
 
 #### How to use
