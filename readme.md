@@ -39,6 +39,6 @@ It's pretty straightforward.
 * I mapped the location to pixels in a map I grabbed on OpenStreetMaps
 * I scrape the time from the defined station to all the other stations (thanks to the RATP)
 * I use it to build an image (supposing constant walk speed between the stations)
-* I had a map overlay! 
+* I ad a map overlay! 
 
 You can find an article about this on [my blog](http://benjaminpoilve.com/projects/#)
